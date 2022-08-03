@@ -33,7 +33,7 @@ ORG_PHYSICAL_ADDRESS="United States"
 ORG_PHYSICAL_ADDRESS_ATTESTATION=""
 ORG_PHONE_NUMBER=""
 ORG_PHONE_NUMBER_ATTESTATION=""
-ORG_KEYBASE=""
+ORG_KEYBASE="YHTS7S"
 ORG_TWITTER=""
 ORG_GITHUB=""
 ORG_OFFICIAL_EMAIL=""
@@ -56,7 +56,7 @@ attestation_of_reserve="https://stellar.expert/explorer/public/market?asset=YHTS
 name="Luxury Yahct Coin"
 desc="Fungible utility token."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image=""
+image="https://umbrella-intwaters.pages.dev/PSX_20220803_151110.jpg"
 fixed_number="1000000.37"
 
 
