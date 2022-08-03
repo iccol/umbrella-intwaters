@@ -59,4 +59,13 @@ conditions="Verified mint. Active burn policy. Issuer may mint additional tokens
 image="https://umbrella-intwaters.pages.dev/PSX_20220803_151110.jpg"
 fixed_number="1000000.37"
 
-
+[[CURRENCIES]]
+code="YHTS"
+issuer="GDDBWGSAEG4OXKCHJCKPI2LDMYHOTHR4NPKJSBR7FQVQZKAPNVJ324KE"
+display_decimals=4
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/YHTS-GDDBWGSAEG4OXKCHJCKPI2LDMYHOTHR4NPKJSBR7FQVQZKAPNVJ324KE-1?filter=markets"
+name="Luxury Yahct Coin"
+desc="Fungible utility token."
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+image="https://umbrella-intwaters.pages.dev/PSX_20220803_151110.jpg"
+fixed_number="1000000.01"
