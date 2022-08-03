@@ -12,8 +12,8 @@ ACCOUNTS=["GAXAYQDQWFRTZFC5W6Y7ZITGCIOO5TRK5VZDZLASBIBBQMCNQND4WNTV"]
 
 [DOCUMENTATION]
 
-ORG_NAME="Cruise 12 24 60"
-ORG_URL="https://legendary-pancake.pages.dev/"
+ORG_NAME="Luxury Yacht Coin"
+ORG_URL="https://umbrella-intwaters.pages.dev/"
 ORG_LOGO=""
 ORG_DESCRIPTION=""
 
@@ -48,53 +48,14 @@ id_photo_hash=""
 verification_photo_hash=""
 
 [[CURRENCIES]]
-code="CRUISE12MLH"
-issuer="GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX"
+code="YHTS"
+issuer="GCWDIWJCFUW2ZBF4V4PUJFQBOGDWN7HK2RTNNVLBHY5R4CFBP27HE432"
 display_decimals=4
-attestation_of_reserve="https://stellar.expert/explorer/public/asset/CRUISE12MLH-GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX-2?filter=markets&market=BTCLN-GDPKQ2TSNJOFSEE7XSUXPWRP27H6GFGLWD7JCHNEYYWQVGFA543EVBVT-2"
-name="Cruise 12 MLH"
+attestation_of_reserve="https://stellar.expert/explorer/public/market?asset=YHTS-GCWDIWJCFUW2ZBF4V4PUJFQBOGDWN7HK2RTNNVLBHY5R4CFBP27HE432"
+name="Luxury Yahct Coin"
 desc="Fungible utility token."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://legendary-pancake.pages.dev/PSX_20220803_142720.jpg"
-fixed_number="1.55"
+image=""
+fixed_number="1000000.37"
 
-[[CURRENCIES]]
-code="CRUISE24MLH"
-issuer="GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX"
-display_decimals=4
-attestation_of_reserve="https://stellar.expert/explorer/public/asset/CRUISE24MLH-GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX-2?filter=markets&market=BTCLN-GDPKQ2TSNJOFSEE7XSUXPWRP27H6GFGLWD7JCHNEYYWQVGFA543EVBVT-2"
-name="Cruise 24 MLH"
-desc="Fungible utility token."
-conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://legendary-pancake.pages.dev/PSX_20220803_142720.jpg"
-fixed_number="1.55"
 
-[[CURRENCIES]]
-
-code="CRUISE60MLH"
-
-issuer="GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX"
-
-display_decimals=4
-
-attestation_of_reserve="https://stellar.expert/explorer/public/asset/CRUISE60MLH-GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX-2?filter=markets&market=BTCLN-GDPKQ2TSNJOFSEE7XSUXPWRP27H6GFGLWD7JCHNEYYWQVGFA543EVBVT-2"
-name="Cruise 60 MLH"
-
-desc="Fungible utility token."
-
-conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-
-image="https://legendary-pancake.pages.dev/PSX_20220803_142720.jpg"
-
-fixed_number="1.55"
-
-[[CURRENCIES]]
-code="RKY"
-issuer="GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX"
-display_decimals=4
-attestation_of_reserve="https://stellar.expert/explorer/public/asset/RKY-GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX-1?filter=markets"
-name="RKY"
-desc="Fungible utility token."
-conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://legendary-pancake.pages.dev/CRUISE24MLH.jpg"
-fixed_number="1000000000"
