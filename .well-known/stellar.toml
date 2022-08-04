@@ -49,16 +49,7 @@ github=""
 id_photo_hash=""
 verification_photo_hash=""
 
-[[CURRENCIES]]
-code="YHTS"
-issuer="GCWDIWJCFUW2ZBF4V4PUJFQBOGDWN7HK2RTNNVLBHY5R4CFBP27HE432"
-display_decimals=4
-attestation_of_reserve="https://stellar.expert/explorer/public/market?asset=YHTS-GCWDIWJCFUW2ZBF4V4PUJFQBOGDWN7HK2RTNNVLBHY5R4CFBP27HE432"
-name="Luxury Yahct Coin"
-desc="Fungible utility token."
-conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
-image="https://umbrella-intwaters.pages.dev/PSX_20220803_151110.jpg"
-fixed_number="1000000.37"
+
 
 [[CURRENCIES]]
 code="YHTS"
