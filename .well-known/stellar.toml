@@ -71,3 +71,22 @@ desc="Fungible utility token."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
 image="https://umbrella-intwaters.pages.dev/PSX_20220803_151110.jpg"
 fixed_number="9999.99"
+
+[[CURRENCIES]]
+
+code="AQUAPOD"
+
+issuer="GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F"
+
+display_decimals=4
+
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/AQUAPOD-GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F?filter=markets&market=SDEXEX-GBQHMDRWV3WU5YACBUUCBY4Y6PPWBJXW5WCSG5XJ63FC4HXJNGXYFD5J-2"
+name="Aquapod"
+
+desc="Fungible utility token."
+
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+
+image="https://umbrella-intwaters.pages.dev/aquapod.jpg"
+
+fixed_number="999999"
