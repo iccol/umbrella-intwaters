@@ -100,3 +100,21 @@ desc="Fungible utility token."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
 image="https://umbrella-intwaters.pages.dev/aquapod.jpg"
 fixed_number="1000000000"
+[[CURRENCIES]]
+
+code="HOTEL"
+
+issuer="GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F"
+
+display_decimals=4
+
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/HOTEL-GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F?filter=markets&market=SDEXEX-GBQHMDRWV3WU5YACBUUCBY4Y6PPWBJXW5WCSG5XJ63FC4HXJNGXYFD5J-2"
+name="H Coin"
+
+desc="Fungible utility token."
+
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+
+image="https://umbrella-intwaters.pages.dev/h.jpg"
+
+fixed_number="1000000000"
