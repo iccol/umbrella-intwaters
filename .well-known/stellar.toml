@@ -132,7 +132,7 @@ image="https://umbrella-intwaters.pages.dev/lvmreit.jpg"
 fixed_number="1"
 [[CURRENCIES]]
 code="HydroS"
-issuer=""
+issuer="GBOT345OICAFBOVOB5AZFDSNE5ASVJQYZK5S4K3C6ZK3NZN7YJW27GSP"
 display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/HydroS-GBOT345OICAFBOVOB5AZFDSNE5ASVJQYZK5S4K3C6ZK3NZN7YJW27GSP-2?filter=markets&market=XRP-GBPG6EPK77NYTE5ETIW2NWB6TNAPCURDTYGGZABZQOINT2TQHG42KDKE-1"
 name="HydroS"
