@@ -69,9 +69,9 @@ issuer="GC3YRTJQUXVQMG5STS7MSWVF3OF3Z5MVF6NEWZLKNQAJZX5UUFLMCFMA"
 display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/YHTS-GC3YRTJQUXVQMG5STS7MSWVF3OF3Z5MVF6NEWZLKNQAJZX5UUFLMCFMA-1?filter=markets"
 name="Luxury Yahct Coin"
-desc="Fungible utility token. LuxuryYacht_Bot
-t.me/LuxuryYacht_Bot
-@LuxuryYacht_Bot"
+desc="Fungible utility token. - t.me/LuxuryYacht_Bot LuxuryYacht_Bot @LuxuryYacht_Bot"
+
+
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
 image="https://umbrella-intwaters.pages.dev/PSX_20220803_151110.jpg"
 fixed_number="9999.99"
