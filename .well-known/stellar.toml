@@ -141,3 +141,13 @@ name="HydroS"
 desc="Fungible utility token."
 conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
 image="https://umbrella-intwaters.pages.dev/hy.jpg"
+
+[[CURRENCIES]]
+code="QVIIS"
+issuer="GCWDIWJCFUW2ZBF4V4PUJFQBOGDWN7HK2RTNNVLBHY5R4CFBP27HE432"
+display_decimals=4
+attestation_of_reserve="name="https://stellar.expert/explorer/public/market?asset=QVIIS-GCWDIWJCFUW2ZBF4V4PUJFQBOGDWN7HK2RTNNVLBHY5R4CFBP27HE432"
+name="Quintoria Solen VII"
+desc="Fungible utility token."
+conditions="Verified mint. Active burn policy. Issuer may mint additional tokens."
+image="https://umbrella-intwaters.pages.dev/qviisjpg"
